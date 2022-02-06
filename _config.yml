@@ -17,9 +17,7 @@ title: "Hello. I'm Li-Wei Yang."
 email: 'liver121888@gmail.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://liver121888.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-url: "https://liver121888.github.io/liver121888.github.io_future"
-# twitter_username: 'jamigibbs'
+url: "https://liver121888.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'liver121888'
 medium_username: 'https://medium.com/@liver121888'
 
