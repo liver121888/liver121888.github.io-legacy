@@ -16,7 +16,7 @@
 title: "Hello. I'm Li-Wei Yang."
 email: 'liver121888@gmail.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liver121888.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'liver121888'
 medium_username: 'medium.com/@liver121888'
@@ -96,6 +96,6 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/home', text: 'Home' }
+  - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
   - { url: '/cv', text: 'CV' }
