@@ -8,7 +8,7 @@ tags: JavaScript AngularJS API Sass
 featured_image: '/img/posts/IMG_8239.JPG'
 project_link: 'http://github.com/jamigibbs/weathercast'
 button_icon: 'github'
-button_text: 'Visit Project'
+button_text: 'Hi Hi'
 lead_text: 'A simple weather forecast app for your favorite city.'
 ---
 
