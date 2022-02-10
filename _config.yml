@@ -15,17 +15,25 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Li-Wei Yang."
 email: 'liver121888@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+description: "An expected BS student in BME at National Taiwan University, Taiwan. Zeal for autonomous driving industry"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liver121888.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: ''
+medium_username: ''
 github_username: 'liver121888'
-medium_username: 'medium.com/@liver121888'
+# medium_username: '@liver121888'
+youtube_username: 'david121888'
+linkedin_username: 'li-wei-yang-529519208'
+
+section_title: 'Latest Work'
+section_subtitle: 'Have a look at what I am working on right now.'
 
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
+
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -90,7 +98,7 @@ pagination:
 ### Phantom settings
 footer_text: '© 2022 Li-Wei Yang'
 admin_name: 'Li-Wei Yang'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+google_analytics: "G-NKL0SERNN0" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
