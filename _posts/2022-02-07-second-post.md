@@ -1,14 +1,17 @@
 ---
 layout: inner
 position: right
-title: 'Second Post'
+title: 'Mobile Lost and Found'
 date: 2022-02-07 9:33:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/IMG_8239.JPG'
-project_link: 'http://github.com/jamigibbs/weathercast'
+tags: SLAM BRISK ROS MobilePlatform
+featured_image: '/img/posts/MLF.png'
+project_link: 'https://github.com/liver121888/NTUCSIE-2021-Robotics-Assignments/tree/master/FP_team6'
+project_link2: 'https://youtu.be/9vGfJ9OHpAs'
 button_icon: 'github'
-button_text: 'Hi Hi'
-lead_text: 'A simple weather forecast app for your favorite city.'
+button_icon2: 'youtube'
+button_text: 'Visit Project'
+button_text2: 'Video'
+lead_text: 'MLF6110 is an self-navigated object searching robot implementing BRISK algorithm and Gmapping.'
 ---
 

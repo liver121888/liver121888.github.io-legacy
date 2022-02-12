@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Li-Wei Yang."
+title: " Li-Wei (Liver) Yang"
 email: 'liver121888@gmail.com'
 description: "An expected BS student in BME at National Taiwan University, Taiwan. Zeal for autonomous driving industry"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,13 +32,11 @@ section_subtitle: 'Have a look at what I am working on right now.'
 markdown: kramdown
 theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
-paginate: 10
-paginate_path: "/page:num/"
 
 pagination:
   
@@ -108,4 +106,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/cv', text: 'CV' }
+  - { url: '/Li-Wei Yang.pdf', text: 'CV' }
