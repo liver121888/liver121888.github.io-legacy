@@ -98,7 +98,7 @@ pagination:
 ### Phantom settings
 footer_text: '© 2022 Li-Wei Yang'
 admin_name: 'Li-Wei Yang'
-google_analytics: "G-NKL0SERNN0" # Update with your own tracking ID
+google_analytics: "G-KF4ZYPGYNN" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
