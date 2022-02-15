@@ -12,6 +12,6 @@ button_icon: 'github'
 button_icon2: 'youtube'
 button_text: 'Visit Project'
 button_text2: 'Video'
-lead_text: 'MLF6110 is an self-navigated object searching robot implementing BRISK algorithm and Gmapping.'
+lead_text: 'MLF6110 is a self-navigated object searching robot implementing BRISK algorithm and Gmapping.'
 ---
 
