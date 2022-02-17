@@ -108,3 +108,4 @@ nav_item:
   - { url: '/about', text: 'About' }
   - { url: '/Li-Wei Yang.pdf', text: 'CV' }
   - { url: '/hobby', text: 'Hobby' }
+  - { url: '/projects', text: 'Projects' }
